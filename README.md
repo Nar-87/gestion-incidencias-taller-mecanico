@@ -162,7 +162,7 @@ NUEVA INCIDENCIA VINCULADA
 
 La aplicación permite autenticarse con distintos perfiles de usuario.
 
-![Login](docs/capturas/login.png)
+![Login](docs/capturas/login.PNG)
 
 ---
 
@@ -170,7 +170,7 @@ La aplicación permite autenticarse con distintos perfiles de usuario.
 
 El administrador dispone de acceso completo a la gestión de incidencias, usuarios, técnicos y categorías.
 
-![Administrador](docs/capturas/cuenta_admin.png)
+![Administrador](docs/capturas/cuenta_admin.PNG)
 
 ---
 
@@ -178,7 +178,7 @@ El administrador dispone de acceso completo a la gestión de incidencias, usuari
 
 Los técnicos pueden gestionar incidencias, modificar estados, reasignar prioridades y consultar históricos de resolución.
 
-![Técnico](docs/capturas/cuenta_tecnico.png)
+![Técnico](docs/capturas/cuenta_tecnico.PNG)
 
 ---
 
@@ -186,7 +186,7 @@ Los técnicos pueden gestionar incidencias, modificar estados, reasignar priorid
 
 Los usuarios pueden crear incidencias y consultar el estado de las incidencias asociadas a su cuenta.
 
-![Usuario](docs/capturas/cuenta_usuario.png)
+![Usuario](docs/capturas/cuenta_usuario.PNG)
 
 ---
 
