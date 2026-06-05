@@ -15,8 +15,8 @@ import java.sql.SQLException;
 
 public class ConexionBD {
     private static final String URL = "jdbc:mysql://localhost:3306/gestion_incidencias"; //Wamp en local
-    private static final String USER = "usuario"; //Lógicamente hay que cambiar esto
-    private static final String PASSWORD = "password"; //Y esto ni te cuento
+    private static final String USER = "root"; //Lógicamente hay que cambiar esto
+    private static final String PASSWORD = "root"; //Y esto ni te cuento
     
     private static Connection conexion;
     

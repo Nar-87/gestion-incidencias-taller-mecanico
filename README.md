@@ -22,6 +22,17 @@ Este proyecto fue desarrollado como práctica de Desarrollo de Aplicaciones Mult
 
 ---
 
+## Características destacadas
+
+- Sistema de autenticación con tres perfiles de usuario.
+- Gestión completa de incidencias.
+- Control de permisos según rol.
+- Histórico de resolución y cambios.
+- Sistema de reapertura de incidencias.
+- Interfaz gráfica desarrollada con Java Swing.
+- Persistencia de datos mediante MySQL y JDBC.
+- Arquitectura MVC y patrón DAO.
+
 ## Funcionalidades principales
 
 ### Gestión de incidencias
@@ -149,19 +160,33 @@ NUEVA INCIDENCIA VINCULADA
 
 ### Inicio de sesión
 
-*(Pendiente de añadir captura)*
+La aplicación permite autenticarse con distintos perfiles de usuario.
 
-### Ventana principal
+![Login](docs/capturas/login.png)
 
-*(Pendiente de añadir captura)*
+---
 
-### Gestión de incidencias
+### Vista Administrador
 
-*(Pendiente de añadir captura)*
+El administrador dispone de acceso completo a la gestión de incidencias, usuarios, técnicos y categorías.
 
-### Histórico de cambios
+![Administrador](docs/capturas/cuenta_admin.png)
 
-*(Pendiente de añadir captura)*
+---
+
+### Vista Técnico
+
+Los técnicos pueden gestionar incidencias, modificar estados, reasignar prioridades y consultar históricos de resolución.
+
+![Técnico](docs/capturas/cuenta_tecnico.png)
+
+---
+
+### Vista Usuario
+
+Los usuarios pueden crear incidencias y consultar el estado de las incidencias asociadas a su cuenta.
+
+![Usuario](docs/capturas/cuenta_usuario.png)
 
 ---
 
