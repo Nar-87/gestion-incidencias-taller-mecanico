@@ -195,4 +195,4 @@ git clone https://github.com/tuusuario/nombre-repositorio.git
 
 ## Autor
 
-Proyecto desarrollado por **Narcisa Pischis** como parte de su formación en Desarrollo de Aplicaciones Multiplataforma (DAM).
+Proyecto desarrollado como parte de su formación en Desarrollo de Aplicaciones Multiplataforma (DAM).
